@@ -1,0 +1,1 @@
+[{"constant":true,"inputs":[{"name":"l","type":"uint256"}],"name":"pyramid","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"pure","type":"function"}]

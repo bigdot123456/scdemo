@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[],"name":"buySomething","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":true,"inputs":[{"name":"response","type":"bytes"}],"name":"oracleResponse","outputs":[],"payable":false,"stateMutability":"view","type":"function"}]
